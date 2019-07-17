@@ -1,6 +1,6 @@
 {
   "name": "sign-here",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Smooth signature drawing with HTML5 Canvas",
   "authors": [
     "Simon Green <simon@captaincodeman.com>"
